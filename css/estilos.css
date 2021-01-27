@@ -1,0 +1,77 @@
+.TITLE {
+    background-color: aquamarine;
+    color: salmon;
+    text-align: center;
+    font-size: 8    0px;
+}
+
+
+.contenedor{
+    width: 100%;
+    max-width: 1000%;
+    margin: auto;
+    padding: 60px;
+    background: #fff;
+    margin-top: 50px;
+    box-shadow: 0px 1px 10px rgba(0,0,0,0.4);
+}
+
+.tituloq {
+    text-align: center;
+    font-size: 40px;
+    margin-bottom: 40px;
+    font-weight: 700;
+
+}
+ .sub-titulo {
+     font-size: 28px;
+     font-weight: 300px;
+ }
+
+ .contenedor img {
+      width: 300px;
+      height: 200px;
+      float: left;
+      margin-right: 20px;
+      margin-bottom: 20px;
+
+ }
+
+ .contenedor p {
+      text-align: justify;
+      font-size: 18px;
+      font-weight: 100;
+      margin-top: 20px;
+ }
+ footer{
+    width: 100%;
+    
+}
+
+
+.iconosredes{
+
+    text-align: center;
+}
+
+.ajusteicono {
+    display: inline-flex;
+    margin: 50px 35px;
+    
+}
+
+.textofooter {
+  padding-top: 8px;
+  width: 100%;
+  font-family: cursive;
+  text-align: center;
+  color: white;
+  font-size: 15px;
+  background-color: salmon;
+  height: 80px;
+
+}
+.redest {
+    text-align: center;
+    background: chocolate;
+}
